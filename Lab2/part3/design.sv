@@ -1,0 +1,5 @@
+`include "alarm.sv"
+`include "lcd_int3.sv"
+`include "ct_mod_N.sv"
+`include "ct_mod_D.sv"
+`include "struct_diag.sv"
